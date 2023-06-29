@@ -1,0 +1,25 @@
+{
+  "name": "mybrary-app",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000y\u0000b\u0000r\u0000a\u0000r\u0000y\u0000-\u0000a\u0000p\u0000p\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anushka7310/Mybrary-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anushka7310/Mybrary-app/issues"
+  },
+  "homepage": "https://github.com/Anushka7310/Mybrary-app#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1"
+  }
+}
